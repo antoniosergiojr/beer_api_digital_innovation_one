@@ -1,4 +1,4 @@
-## Beer Stocks | [Digital Innovation One: Expert class](https://digitalinnovation.one/)
+## Beer Stocks | [Digital Innovation One](https://digitalinnovation.one/)
 
 Project carried out to unit test, a REST API for the management of beer stocks, and also to present the main concepts and advantages of creating unit tests with JUnit and Mockito through the practice of TDD.
 
