@@ -47,6 +47,7 @@ Topics covered:
     - Java
     - Spring Boot
     - Mockito
+    - JUnit
     - Hamcrest
     - H2 Database Engine
 ---
