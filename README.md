@@ -1,4 +1,4 @@
-## Beer Stocks | Digital Innovation One: Expert class
+## Beer Stocks | [Digital Innovation One: Expert class](https://digitalinnovation.one/)
 
 Project carried out to unit test, a REST API for the management of beer stocks, and also to present the main concepts and advantages of creating unit tests with JUnit and Mockito through the practice of TDD.
 
@@ -28,18 +28,18 @@ Topics covered:
   
   Below are links:
 
-  * [SDKMan! for managing and installing Java and Maven] (https://sdkman.io/)
-  * [Intellij IDEA Community reference, for download] (https://www.jetbrains.com/idea/download)
-  * [Intellij command shortcut palette] (https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
-  * [Spring's official website] (https://spring.io/)
-  * [Official website JUnit 5] (https://junit.org/junit5/docs/current/user-guide/)
-  * [Mockito official website] (https://site.mockito.org/)
-  * [Hamcrest official website] (http://hamcrest.org/JavaHamcrest/)
-  * [References - tests in general with Spring Boot] (https://www.baeldung.com/spring-boot-testing)
-  * [Reference to the REST architectural standard] (https://restfulapi.net/)
-  * [Test pyramid reference - Martin Fowler] (https://martinfowler.com/articles/practical-test-pyramid.html#TheImportanceOftestAutomation)
+  * [SDKMan! for managing and installing Java and Maven](https://sdkman.io/)
+  * [Intellij IDEA Community reference, for download](https://www.jetbrains.com/idea/download)
+  * [Intellij command shortcut palette](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
+  * [Spring's official website](https://spring.io/)
+  * [Official website JUnit 5](https://junit.org/junit5/docs/current/user-guide/)
+  * [Mockito official website](https://site.mockito.org/)
+  * [Hamcrest official website](http://hamcrest.org/JavaHamcrest/)
+  * [References - tests in general with Spring Boot](https://www.baeldung.com/spring-boot-testing)
+  * [Reference to the REST architectural standard](https://restfulapi.net/)
+  * [Test pyramid reference - Martin Fowler](https://martinfowler.com/articles/practical-test-pyramid.html#TheImportanceOftestAutomation)
 
-  [On this link] (https://drive.google.com/file/d/1KPh19mvyKirorOI-UsEYHKkmZpet3Ks6/view?usp=sharing), follow the slides presented as the script used for the development of the project.
+  [On this link](https://drive.google.com/file/d/1KPh19mvyKirorOI-UsEYHKkmZpet3Ks6/view?usp=sharing), follow the slides presented as the script used for the development of the project.
   
 ---
 
