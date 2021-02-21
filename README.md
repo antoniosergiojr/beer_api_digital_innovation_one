@@ -18,7 +18,7 @@ Topics covered:
 ---
 
 ## ⚙ Settings
-  The following prerequisites are required for the execution of the project:
+  The following prerequisites are necessary for the execution of the project:
 
   * Java 14 or higher versions.
   * Maven 3.6.3 or higher versions.
